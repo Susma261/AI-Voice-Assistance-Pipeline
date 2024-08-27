@@ -1,2 +1,0 @@
-Q:  what is artificial intelligence?
-A: Artificial intelligence is a term used to describe the ability of a computer to process information in a way that does not require human intervention. The term is derived from the term "machine learning," which refers to the process by which computers learn to perform tasks that are difficult or impossible for humans to do
